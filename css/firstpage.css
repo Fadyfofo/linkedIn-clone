@@ -1,0 +1,33 @@
+#loginNow{
+    background-color:white;
+    }
+#loginNow:hover{
+background-color: rgb(244, 239, 239);
+}
+#signIn{
+    background-color:white;
+    }
+#signIn:hover{
+background-color: rgb(244, 239, 239);
+}
+#btnNewtoLinkedIn:hover{
+    background-color: rgb(244, 239, 239);
+
+}
+.form-control:hover{
+background-color:rgb(244, 239, 239) ;
+}
+button{
+    color:rgb(143, 139, 139) ;
+}
+button:hover{
+    background-color:rgb(211, 206, 206); ;
+    color: black;
+
+}
+.no-margin-top {
+    margin-top: 0;
+  }
+
+
+
